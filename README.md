@@ -1,7 +1,7 @@
 ```js
-{ "name": "Marisa Goode", 
+{ "name":     "Marisa Goode", 
   "pronouns": ["she", "her", "hers"], 
-  "title": "Lead Instructor", 
+  "title":    "Lead Instructor", 
   "location": "Arlington, VA" }
 // CodingDojo.com
 // Transforming lives through programming literacy.
