@@ -1,5 +1,3 @@
-# wgoode3
-
 ```js
 { "name": "Marisa Goode", 
   "pronouns": ["she", "her", "hers"], 
